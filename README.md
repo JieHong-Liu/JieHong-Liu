@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JieHong-Liu&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JieHong-Liu&layout=compact)](https://github.com/JieHong-Liu/github-readme-stats)
+
 
 <!---
 JieHong-Liu/JieHong-Liu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
