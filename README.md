@@ -5,7 +5,7 @@
 - 📫 Reach me from my email jiehong0914@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JieHong-Liu&count_private=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JieHong-Liu&layout=compact)](https://github.com/JieHong-Liu/github-readme-stats)
 
 
 <!---
